@@ -3,10 +3,7 @@ title: Jasper Phang
 role: Architecture Student
 avatar_filename: portrait-square.jpg
 bio: My interests include architecture, future of cities and urban data science.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
