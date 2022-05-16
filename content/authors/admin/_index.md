@@ -2,7 +2,7 @@
 title: Jasper Phang
 role: Architecture Student
 avatar_filename: portrait-square.jpg
-bio: My interests include architecture, future of cities and urban data science.
+bio: []
 interests: []
 social:
   - icon: envelope
@@ -37,4 +37,4 @@ Jasper Phang is a fourth year architecture student from the National University 
 recipient of the iBuildSG Sponsorship. He is passionate about architecture, design and technology. He seeks
 to bring greater good to the community through engaging architecture that leverages on technology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
